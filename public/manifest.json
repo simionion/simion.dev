@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "simion.dev",
+  "short_name": "Welcome to Ion's personal website",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Personal website of Ion Simion"
+}
